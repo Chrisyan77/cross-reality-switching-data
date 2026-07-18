@@ -1,0 +1,202 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kharvari, Farzam
+   Kaiser, Lorenz Ewald
+TI Impact of extended reality on architectural education and the design
+   process
+SO AUTOMATION IN CONSTRUCTION
+VL 141
+AR 104393
+DI 10.1016/j.autcon.2022.104393
+EA JUN 2022
+DT Review
+PD SEP 2022
+PY 2022
+AB This paper presents a systematic review of how extended reality
+   technologies (XR-technologies) affect the learning outcomes and
+   students' performance in architectural education. Based on a modified
+   PICO-strategy and the framework analysis of the findings of previous
+   researches on immersive environments, this paper elucidates the impact
+   of XR-technologies, including virtual reality (VR), augmented reality
+   (AR), and mixed reality (MR), on Bryan Lawson's five phases of the
+   design process. Furthermore, this study investigates the applications of
+   XR-technologies in different courses of architectural education. The
+   results are categorized into four different course types that were
+   derived from the reviewed article. The results show that
+   XR-technologies, including VR, AR, and MR are capable of enhancing
+   various stages of the design process and improving learning outcomes in
+   educational courses among architecture students. Similarly, the
+   application of such environments is also suitable for professional
+   architectural design and inclusion of end-users in the design process.
+Z8 0
+ZS 0
+TC 18
+ZA 0
+ZB 0
+ZR 0
+Z9 18
+DA 2022-08-13
+UT WOS:000833416600002
+ER
+
+PT C
+AU Hadan, Hilda
+   Wang, Derrick M.
+   Nacke, Lennart E.
+   Zhang-Kennedy, Leah
+GP ACM
+TI Privacy in Immersive Extended Reality: Exploring User Perceptions,
+   Concerns, and Coping Strategies
+SO PROCEEDINGS OF THE 2024 CHI CONFERENCE ON HUMAN FACTORS IN COMPUTING
+   SYTEMS, CHI 2024
+DI 10.1145/3613904.3642104
+DT Proceedings Paper
+PD 2024
+PY 2024
+AB Extended Reality (XR) technology is changing online interactions, but
+   its granular data collection sensors may be more invasive to user
+   privacy than web, mobile, and the Internet of Things technologies.
+   Despite an increased interest in studying developers' concerns about XR
+   device privacy, user perceptions have rarely been addressed. We surveyed
+   464 XR users to assess their awareness, concerns, and coping strategies
+   around XR data in 18 scenarios. Our findings demonstrate that many
+   factors, such as data types and sensitivity, affect users' perceptions
+   of privacy in XR. However, users' limited awareness of XR sensors'
+   granular data collection capabilities, such as involuntary body signals
+   of emotional responses, restricted the range of privacy-protective
+   strategies they used. Our results highlight a need to enhance users'
+   awareness of data privacy threats in XR, design privacy-choice
+   interfaces tailored to XR environments, and develop transparent XR data
+   practices.
+CT CHI Conference on Human Factors in Computing Sytems (CHI)
+CY MAY 11-16, 2024
+CL Honolulu, HI
+SP Assoc Comp Machinery; ACM SIGCHI; Apple; Google; NSF; Tianqiao & Chrissy
+   Chen Inst
+ZR 0
+Z8 0
+ZB 0
+ZA 0
+ZS 0
+TC 3
+Z9 3
+DA 2024-10-05
+UT WOS:001255317904005
+ER
+
+PT C
+AU Pierdicca, Roberto
+   Mulliri, Maurizio
+   Lucesoli, Matteo
+   Piccinini, Fabio
+   Malinverni, Eva Savina
+BE DePaolis, LT
+   Arpaia, P
+   Sacco, M
+TI Geomatics Meets XR: A Brief Overview of the Synergy Between Geospatial
+   Data and Augmented Visualization
+SO EXTENDED REALITY, XR SALENTO 2022, PT II
+SE Lecture Notes in Computer Science
+VL 13446
+BP 224
+EP 235
+DI 10.1007/978-3-031-15553-6_17
+DT Proceedings Paper
+PD 2022
+PY 2022
+AB Extended Reality (XR) is an extension of the real world obtained thanks
+   to the increase of innovative features that allow users to perceive the
+   surrounding reality in a different and enhanced way, combining it with
+   virtual elements. XR is declined through three different technologies
+   that help change the perception of reality: Virtual Reality (VR),
+   Augmented Reality (AR), Mixed Reality (MR). The latter combines VR and
+   AR creating a more complex experience, generating a new reality
+   resulting from the union between real and virtual allows the user to
+   interact simultaneously with the real world and the virtual environment.
+   In the last years XR technology has been employed in several fields of
+   application, except in geomatics, that is the less explored field. Given
+   the extreme complexity of heterogeneous geomatics data, the
+   visualization is complex, and there is the need to better understand the
+   potential of MR for both users and experts. Considering the potentiality
+   of this technology in geomatics, in this paper we present GEOLENS, an MR
+   application in an eXtended environment. With GEOLENS it is possible to
+   visualize digitally produced objects and information in the field and
+   superimpose them on reality. The advantages of this solution in the
+   field of surveying, architectural design and Geographical Information
+   System (GIS), are the interaction of digital design with reality for
+   greater decision control, time saving and office-field sharing. This
+   paper reports over the development of a cloud-based platform which acts
+   as a repository of geomatics data, ready to use in the real environment.
+   The features described prove the suitability of the solution for
+   multiple purposes.
+CT 1st International Conference on Extended Reality (XR Salento)
+CY JUL 06-08, 2022
+CL Lecce, ITALY
+SP Univ Salento, Augmented & Virtual Real Lab
+TC 1
+ZA 0
+ZR 0
+ZS 0
+ZB 0
+Z8 0
+Z9 1
+DA 2022-11-30
+UT WOS:000886159800017
+ER
+
+PT J
+AU Banerjee, Neil T.
+   Baughman, Alex J.
+   Lin, Shu-Yu
+   Witte, Zoe A.
+   Klaus, David M.
+   Anderson, Allison P.
+TI Side-by-Side Comparison of Human Perception and Performance Using
+   Augmented, Hybrid, and Virtual Reality
+SO IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS
+VL 28
+IS 12
+BP 4787
+EP 4796
+DI 10.1109/TVCG.2021.3105606
+DT Article
+PD DEC 1 2022
+PY 2022
+AB Alternative reality (XR) technologies, including physical, augmented,
+   hybrid, and virtual reality, offer ways for engineered spaces to be
+   evaluated. Traditionally, practitioners (such as those designing
+   spacecraft habitats) have relied on physical mockups to perform such
+   design evaluations, but digital XR technologies present several
+   streamlining advantages over their physical counterparts. These digital
+   environments vary in their level of virtuality, and consequently have
+   different effects on human perception and performance, with respect to a
+   completely physical mockup environment. To date, very little has been
+   done to characterize and quantify such differences in human perception
+   and performance across XR environments of equal fidelity for the same
+   end application. Here, we show that perception and performance in the
+   virtual reality environment most closely mirror those in the physical
+   reality environment, as measured through volumetric assessment and
+   functional task experiments. These experiments required subjects to
+   judge the dimensions of 3D objects and perform operational tasks
+   presented via checklists. Our results highlight the potential for
+   virtual reality systems to accelerate the iterative design of engineered
+   spaces relative to the use of physical mockups, while preserving the
+   human perception and performance characteristics of a completely
+   physical environment. These findings also elucidate specific advantages
+   and disadvantages to specific digital XR technologies with respect to
+   one another and the physical reality baseline. Practitioners may inform
+   their selection of an XR modality for their specific end application
+   based on this comparative analysis, as it contextualizes the niche for
+   each technology in the realm of iterative design for engineered spaces.
+TC 9
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+ZA 0
+Z9 9
+DA 2022-11-11
+UT WOS:000873836400059
+PM 34406940
+ER
